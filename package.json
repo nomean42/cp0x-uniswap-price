@@ -1,0 +1,19 @@
+{
+  "name": "cp0x-uniswap-price",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "no_mean42",
+  "license": "MIT",
+  "dependencies": {
+    "@ethersproject/address": "^5.0.11",
+    "@ethersproject/contracts": "^5.0.12",
+    "@ethersproject/providers": "^5.0.24",
+    "@ethersproject/solidity": "^5.0.10",
+    "@uniswap/sdk": "^3.0.3",
+    "express": "^4.17.1"
+  }
+}
